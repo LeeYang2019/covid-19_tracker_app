@@ -1,5 +1,7 @@
 COVID-19_Tracker_APP
 
+I was interested in keeping up-to-date with the number of cases of people who are infected, have recovered, and passed away from Covid-19, and wanted a direct way of accessing that information without having to scour the internet looking for it. Moreover, I wanted visualizations that are easy to see and understanding of this ongoing pandemic. 
+
 I created this app using Reactjs, Chartjs, Material UI, and a few other modules. This app also uses the following api to fetch data:
 
 API: https://covid19.mathdro.id/api
