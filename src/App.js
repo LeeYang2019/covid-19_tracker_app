@@ -25,6 +25,7 @@ class App extends React.Component {
   };
 
   render() {
+    //deconstruct and take country out from state
     const { data, country } = this.state;
     return (
       <div className={styles.container}>
