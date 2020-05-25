@@ -13,15 +13,10 @@ Clone the repo
 
 git clone https://github.com/LeeYang2019/covid-19_tracker_app.git
 
-Change into directory project
+install dependencies
 
-install
+-npm install
 
-npm i
-Run the dev server
+run dev server
 
-npm start
-
-Build the project
-
-npm run build
+-npm start
