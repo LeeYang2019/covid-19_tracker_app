@@ -1,4 +1,4 @@
-COVID-19_Tracker_APP
+# COVID-19_Tracker_APP
 
 I was interested in keeping up-to-date with the number of cases of people who are infected, have recovered, and passed away from Covid-19, and wanted a direct way of accessing that information without having to scour the internet looking for it. Moreover, I wanted visualizations that are easy to see and understanding of this ongoing pandemic.
 
@@ -10,7 +10,13 @@ Much thanks to JavaScript Mastery for the tutorial. I was fortunate enough to co
 
 As a follow-up, I will make some changes of my own, such as adding a map showing which countries are infected and how many using a Google map api.
 
+# Link to deployed application 
+
+# Screenshots of the application
+
 ![Screen Shot 2020-06-07 at 6 09 06 PM](https://user-images.githubusercontent.com/46943342/83981230-0c46c680-a8ea-11ea-97ba-7cbbf85db292.png)
+
+# Installation
 
 To install and run locally
 Clone the repo
