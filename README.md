@@ -14,9 +14,12 @@ As a follow-up, I will make some changes of my own, such as adding a map showing
 ## Goals
 
 The following are what I learned in the project:
-        Gained additional practice using React
-        Use materialUI to stylize the UI
-        Learned to deploy application on Heroku.
+
+<ol>
+    <li>Gained additional practice using React</li>
+    <li>Use materialUI to stylize the UI</li>
+    <li>Learned to deploy application on Heroku.</li>
+</ol>
 
 ## Link to Deployed Application
 
