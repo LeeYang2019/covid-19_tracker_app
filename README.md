@@ -18,6 +18,7 @@ The following are what I learned in the project:
 <ol>
     <li>Gained additional practice using React</li>
     <li>Use materialUI to stylize the UI</li>
+    <li>Work with a Rest API</li>
     <li>Learned to deploy application on Heroku.</li>
 </ol>
 
