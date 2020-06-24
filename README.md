@@ -11,8 +11,22 @@ Much thanks to JavaScript Mastery for the tutorial. I was fortunate enough to co
 
 As a follow-up, I will make some changes of my own, such as adding a map showing which countries are infected and how many using a Google map api.
 
+## Goals
+
+The following are what I learned in the project:
+        Gained additional practice using React
+        Use materialUI to stylize the UI
+        Learned to deploy application on Heroku.
+
+## Link to Deployed Application
+
+link: https://afternoon-inlet-58488.herokuapp.com/
+
+## Screenshots of Application
+
 ![Screen Shot 2020-06-07 at 6 09 06 PM](https://user-images.githubusercontent.com/46943342/83981230-0c46c680-a8ea-11ea-97ba-7cbbf85db292.png)
 
+## Installation
 To install and run locally
 Clone the repo
 
